@@ -63,12 +63,13 @@ You can use any dataset, we are mainly interested in the operation side of Data 
 11)  Connection established
     
 12)  Now write your data on the S3 bucket by authenticating AWS CLI
-
-    ![data_stored_s3_bucket](https://github.com/iparth36i/kafka-stock-market-project/assets/74725717/bd490cdc-3b59-4cb5-8f38-15310832b502)
     
+   ![data_stored_s3_bucket](https://github.com/iparth36i/kafka-stock-market-project/assets/74725717/17198e58-8e52-42b1-b721-8844bcdc52cb)
+
+       
 13)  Create a catalog table using the AWS Glue crawler
-14)  
-15)  Use AWS Athena to write queries on REAL-TIME DATA
+    
+14)  Use AWS Athena to write queries on REAL-TIME DATA
 
 ![aws_athena_SQL_implimentation](https://github.com/iparth36i/kafka-stock-market-project/assets/74725717/c740ca55-453e-4b18-bf65-cc0ca3285b47)
 
